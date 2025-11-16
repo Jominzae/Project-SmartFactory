@@ -1,4 +1,4 @@
-# Jominzae-Project-SmartFactory
+# Project-SmartFactory
 
 <img width="1260" height="891" alt="Image" src="https://github.com/user-attachments/assets/600a07b7-64cd-4822-b122-ef01c0ea5cd6" />
 
@@ -7,20 +7,11 @@
 
 
 ## 프로젝트 소개
-인건비 절감을 위한 생산 공장 컨베이어 자동화 장치 입니다.
+AI 병뚜껑 자동 불량 검출기
 <br>
 
 ## 개발 기간
 * 25.09.24 - 25.10.22
-
-### 맴버구성
-| 이름 | 담당 |
-|------|------|
-|서채건|PM, GUI 구성, 코드 통합|
-|김동현|코드 통합, PPT제작, 발표|
-|김선곤|GUI 구성, DB 읽기 쓰기 로직|
-|박서정|데이터셋 학습 및 검증, 스티커 유무 감별|
-|조민재|데이터셋 학습 및 검증, 오염 비율 계산|
 
 ### 개발 환경
 - `Intel Geti`

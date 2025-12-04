@@ -50,3 +50,14 @@ team2/
 ├─ MODEL_FILE
 └─ run.py
 ```
+
+<img width="1684" height="944" alt="image" src="https://github.com/user-attachments/assets/c5b06f36-92a6-4192-ac91-0632e9e552a6" />
+
+<img width="1677" height="944" alt="image" src="https://github.com/user-attachments/assets/04f97003-a6d6-4891-bcf9-ddf2b40727a7" />
+
+<img width="1683" height="944" alt="image" src="https://github.com/user-attachments/assets/00e94b2a-464b-46ae-90a7-b2cbee0ffdc2" />
+
+<img width="1684" height="944" alt="image" src="https://github.com/user-attachments/assets/b911aaaa-d847-4b15-8c49-cfb4250303c9" />
+
+
+
